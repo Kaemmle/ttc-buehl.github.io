@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TurnierTanzClub Bühl</title>
+    <link>https://www.ttc-buehl.de/</link>
+    <description>Recent content on TurnierTanzClub Bühl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+	<atom:link href="https://www.ttc-buehl.de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Auftritt: Tanz in den Mai</title>
+      <link>https://www.ttc-buehl.de/events/2019-04-30-tanz-in-den-mai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ttc-buehl.de/events/2019-04-30-tanz-in-den-mai/</guid>
+      <description>Tanz in den Mai Lorem Ipsum und son Quatsch&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Auftritt: Windeck-Schulball</title>
+      <link>https://www.ttc-buehl.de/events/2019-05-29-schulball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ttc-buehl.de/events/2019-05-29-schulball/</guid>
+      <description>Windeck-Schulball Lorem Ipsum und son Quatsch&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>https://www.ttc-buehl.de/formation/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ttc-buehl.de/formation/training/</guid>
+      <description> Formationstraining Choreographie-Training Jeden Donnerstag, 19:00 Uhr bis 21:00 Uhr, in der Reblandhalle Altschweier
+Technik-Training Jeden Samstag, 09:30 Uhr bis 12:00 Uhr, in der Cititanzschule Bühl
+Interesse geweckt? Dann komm doch einfach zu den Trainigszeiten vorbei, wir freuen uns immer auf euch!
+Du kannst natürlich auch einfach Anrufen, oder eine E-Mail schreiben. Wir beantworten dir gerne deine Fragen!
+E-Mail: info@ttc-buehl.de
+Tel: +49 7223 2830141
+  </description>
+    </item>
+    
+    <item>
+      <title>Workshop Offenes Training</title>
+      <link>https://www.ttc-buehl.de/events/2019-04-28-workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ttc-buehl.de/events/2019-04-28-workshop/</guid>
+      <description>Workshop: Offenes Training Lorem Ipsum und son Quatsch&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

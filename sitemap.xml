@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/events/2019-04-30-tanz-in-den-mai/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/events/2019-05-29-schulball/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/formation/training/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/formation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/verein/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/events/2019-04-28-workshop/</loc>
+  </url>
+  
+</urlset>
