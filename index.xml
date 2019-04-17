@@ -46,8 +46,8 @@ Fördernde Mitglieder Der TTC Bühl ist ein gemeinnütziger Verein, das heißt, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.ttc-buehl.de/verein/satzung/</guid>
-      <description>Satzung des TurnierTanzClub Bühl e.V. in der Fassung vom 21.07.2017
-§ 1 Name, Sitz  Der Verein führt den Namen &amp;ldquo;Turniertanzclub Bühl&amp;rdquo; (TTC Bühl). Er hat seinen Sitz in Bühl. Der Verein soll in das Vereisnregister des Amtsgerichts Mannheim eingetragen werden und trägt dann den Namen &amp;ldquo;TurnierTanzClub Bühl e. V.&amp;rdquo; (TTC Bühl e. V.). Die Farben des Vereins sind rot-weiß.  § 2 Geschäftsjahr Das Geschäftsjahr entspricht dem Kalenderjahr</description>
+      <description>.container  ol { counter-reset: list; } .container  ol  li { list-style: none; position: relative; } .container  ol  li:before { counter-increment: list; content: &#34;(&#34;counter(list) &#34;) &#34;; position: absolute; left: -1.4em; }  Satzung des TurnierTanzClub Bühl e.V. in der Fassung vom 21.07.2017
+§ 1 Name, Sitz  Der Verein führt den Namen &amp;ldquo;Turniertanzclub Bühl&amp;rdquo; (TTC Bühl). Er hat seinen Sitz in Bühl. Der Verein soll in das Vereisnregister des Amtsgerichts Mannheim eingetragen werden und trägt dann den Namen &amp;ldquo;TurnierTanzClub Bühl e.</description>
     </item>
     
     <item>
