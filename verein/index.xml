@@ -23,6 +23,16 @@ Fördernde Mitglieder Der TTC Bühl ist ein gemeinnütziger Verein, das heißt, 
     </item>
     
     <item>
+      <title>Projekte</title>
+      <link>https://www.ttc-buehl.de/verein/kooperation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ttc-buehl.de/verein/kooperation/</guid>
+      <description>Let&amp;rsquo;s Dance: AG am Windeck-Gymnasium Der TTC Bühl veranstaltet am Windeck-Gymnasium in Bühl eine AG, in der Schüler*innen der Klasse 5-7 das Tanzen lernen.
+Weitere Informationen</description>
+    </item>
+    
+    <item>
       <title>Satzung</title>
       <link>https://www.ttc-buehl.de/verein/satzung/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,6 +40,22 @@ Fördernde Mitglieder Der TTC Bühl ist ein gemeinnütziger Verein, das heißt, 
       <guid>https://www.ttc-buehl.de/verein/satzung/</guid>
       <description>.container  ol { counter-reset: list; } .container  ol  li { list-style: none; position: relative; } .container  ol  li:before { counter-increment: list; content: &#34;(&#34;counter(list) &#34;) &#34;; position: absolute; left: -1.4em; }  Satzung des TurnierTanzClub Bühl e.V. in der Fassung vom 21.07.2017
 § 1 Name, Sitz  Der Verein führt den Namen &amp;ldquo;Turniertanzclub Bühl&amp;rdquo; (TTC Bühl). Er hat seinen Sitz in Bühl. Der Verein soll in das Vereisnregister des Amtsgerichts Mannheim eingetragen werden und trägt dann den Namen &amp;ldquo;TurnierTanzClub Bühl e.</description>
+    </item>
+    
+    <item>
+      <title>Vorstand</title>
+      <link>https://www.ttc-buehl.de/verein/vorstand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ttc-buehl.de/verein/vorstand/</guid>
+      <description>Vorstand 1. Vorsitzende Frau Gabi Braun
+vorstand@ttc-buehl.de
+2. Vorsitzender Herr Felix Kamm
+vorstand@ttc-buehl.de
+Kassenwartin Frau Melanie Lorenz
+kassenwart@ttc-buehl.de
+Schriftführer Herr Patrick Lutz
+schriftführer@ttc-buehl.de</description>
     </item>
     
   </channel>
