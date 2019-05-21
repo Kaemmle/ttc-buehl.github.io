@@ -1,4 +1,4 @@
-{{ $fb := (getJSON "https://graph.facebook.com/v3.3/2304735463085015_" (index .Params 0) "?access_token=EAAIn1lDcKxkBAHHBWCCZAR1zYFOf3VhypLLjAwr2AZCm789VFPDlQInZBoE5jvECDLyRHIwWF6XUg7Y7ONCPGzzESfDJW5BA6w3DZAuznRprn3brcb0rmAZCQCmTRvubYvftbBZCmZCJGbumwgh9XEyFeuit5ZC2Qi0CJJPNqSyPWQZDZD&debug=all&fields=full_picture,message,created_time,permalink_url&format=json") }}
+{{ $fb := (getJSON "https://graph.facebook.com/v3.3/2304735463085015_" (index .Params 0) "?access_token=EAAIn1lDcKxkBAHv2ezZAECXxbekNXMlsv2EEeQAEYHOaVst73IfUTxGm68tBGjeN9DWs6zgbZAsx7Fk8Gzx1Ns9re87XDpqQWRzB1EG3WVIzIuOruEEwRENAPUIuFft0JZA6eL3RaM0hetKZBi3J7pxPZCL2suSuOEDPFFYWP5ePupZCjP6To4&debug=all&fields=full_picture,message,created_time,permalink_url&format=json") }}
 <article>
     {{ if $fb.full_picture }}
     <a href="{{ $fb.permalink_url }}"><div class="img" style="background-image: url({{ $fb.full_picture }});"></div></a>
