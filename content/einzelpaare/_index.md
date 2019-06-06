@@ -1,6 +1,8 @@
 ---
-title: Einzelpaare
-menu:  main_left
+title: Einzelturnier
+menu:
+    main_left:
+        weight: -20
 ---
 
 # Einzeltanz beim TTC Bühl

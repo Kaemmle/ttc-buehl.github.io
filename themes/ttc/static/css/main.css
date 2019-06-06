@@ -83,6 +83,7 @@ header > .nav-container {
 nav > ul {
     display: flex;
     font-family: 'Oswald', sans-serif;
+    font-size: 14pt;
     margin: 0;
     padding: 0;
     width: 100%;

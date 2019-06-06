@@ -2,7 +2,8 @@
 Title: "Lateinformation"
 menu:
     main_left:
-        name: Formation
+        name: Turnierformation
+        weight: -10
 ---
 # Lateinformation des TTC Bühl
 
