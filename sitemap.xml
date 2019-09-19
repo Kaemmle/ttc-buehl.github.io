@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.ttc-buehl.de/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/news/2019-09-07-landesmeisterschaft/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/news/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.ttc-buehl.de/events/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.ttc-buehl.de/trophy/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
   </url>
@@ -28,16 +48,6 @@
   </url>
   
   <url>
-    <loc>https://www.ttc-buehl.de/</loc>
-    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.ttc-buehl.de/events/</loc>
-    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.ttc-buehl.de/events/2019-04-30-tanz-in-den-mai/</loc>
   </url>
   
@@ -47,7 +57,6 @@
   
   <url>
     <loc>https://www.ttc-buehl.de/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -64,11 +73,6 @@
   
   <url>
     <loc>https://www.ttc-buehl.de/verein/mitgliedsantrag/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.ttc-buehl.de/news/</loc>
-    <lastmod>2019-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -89,7 +93,6 @@
   
   <url>
     <loc>https://www.ttc-buehl.de/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
